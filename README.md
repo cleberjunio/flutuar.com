@@ -1,7 +1,7 @@
 # flutuar.com
 Projeto site construído em HTML,CSS 
-Desafio da Rocketseat Stage 02 
-Recriar um site apartir do layout do Figma
+- Desafio da Rocketseat Stage 02 
+- Recriar um site apartir do layout do Figma
 # 💻 Sobre o desafio
 
 Nesse desafio, você deverá recriar uma aplicação, a partir de um layout pronto no Figma, para fortalecer alguns conceitos aprendidos nessa aula, entre eles:
