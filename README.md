@@ -1,5 +1,5 @@
 # flutuar.com
-Projeto site construído em HTML,CSS .
+Projeto site construído em HTML,CSS 
 Desafio da Rocketseat Stage 02 
 Recriar um site apartir do layout do Figma
 # 💻 Sobre o desafio
